@@ -1,0 +1,23 @@
+
+
+.p-h2 {
+    color: #d4af37; /* Color dorado para el texto */
+    text-shadow: 1px 1px 2px #000; /* Sombra para el texto */
+    padding-bottom: 10px; /* Espaciado inferior para el texto */
+    margin-bottom: 20px; /* Margen inferior para el texto */
+    border-bottom: 2px solid #000; /* Línea inferior negra para el texto */
+    font-size: 2rem; /* Tamaño de fuente similar al h2 */
+    font-weight: bold; /* Negrita */
+}
+
+table thead th {
+    background-color: #000 !important; /* Fondo negro para los encabezados de la tabla */
+    color: #d4af37 !important; /* Texto dorado para los encabezados de la tabla */
+}
+table tbody td {
+    background-color: #fff; /* Fondo blanco para las celdas del cuerpo de la tabla */
+    color: #000; /* Texto negro para las celdas del cuerpo de la tabla */
+}
+table tbody tr:hover {
+    background-color: #f1f1f1; /* Fondo gris claro al pasar el cursor sobre una fila */
+}

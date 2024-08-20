@@ -1,0 +1,324 @@
+[2024-07-19 08:53:27] usuario:  | pass:   | formulario: FormLogin 
+[2024-07-19 08:53:27] usuario: admin | pass: 12345  | pass:ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f
+[2024-07-19 08:53:27] FormLogin- Control Ingreso - Usuario o contraseña incorrectos.
+[2024-07-19 09:02:42] usuario:  | pass:   | formulario: FormLogin 
+[2024-07-19 09:02:42] usuario: salaburuf | pass: 12345678  | pass:$2y$10$I/t9QyyKYRYoC1EgfsCrxeiPufyxhbWMnNfvZzQg3lCuD6JwllZaS
+[2024-07-19 09:02:42] FormLogin- Control Ingreso - Usuario o contraseña incorrectos.
+[2024-07-19 09:05:03] RegistracionFrom- El usuario o el email ya están registrados: Usuario: SALABURUH, Email: cualquiera@hotmail.com
+[2024-07-19 09:30:16] RegistracionFrom- El usuario o el email ya están registrados: Usuario: SALABURUH, Email: cualquiera@hotmail.com
+[2024-07-19 09:32:53] usuario:  | pass:   | formulario: FormLogin 
+[2024-07-19 09:32:53] usuario: salaburuh | pass: 12345678  | pass:
+[2024-07-19 09:32:53] usuario: salaburuh | pass: 12345678  | pass:$2y$10$G7N3X1DS6.mnSueZXfSAD.nEMvdmnN8HKYjWTo/eJZVcIkCEB.rJm
+[2024-07-19 09:40:20] usuario:  | pass:   | formulario: FormLogin 
+[2024-07-19 09:40:20] usuario: salaburuh | pass: 12345678  | pass:
+[2024-07-19 09:40:20] usuario: salaburuh | pass: 12345678  | pass:
+[2024-07-19 09:40:20] usuario: salaburuh | pass: 12345678  | pass:$2y$10$G7N3X1DS6.mnSueZXfSAD.nEMvdmnN8HKYjWTo/eJZVcIkCEB.rJm
+[2024-07-19 09:43:01] usuario:  | pass:   | formulario: FormLogin 
+[2024-07-19 09:43:01] usuario: salaburuh | pass: 12345678  | pass:
+[2024-07-19 09:43:01] Resultado: 1
+[2024-07-19 09:43:01] usuario: salaburuh | pass: 12345678  | pass:
+[2024-07-19 09:43:01] usuario: salaburuh | pass: 12345678  | pass:$2y$10$G7N3X1DS6.mnSueZXfSAD.nEMvdmnN8HKYjWTo/eJZVcIkCEB.rJm
+[2024-07-19 09:45:59] usuario:  | pass:   | formulario: FormLogin 
+[2024-07-19 09:45:59] usuario: admin | pass: 123  | pass:
+[2024-07-19 09:45:59] Resultado: 
+[2024-07-19 09:45:59] usuario: admin | pass: 123  | pass:ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f
+[2024-07-19 09:45:59] FormLogin- Control Ingreso - Usuario o contraseña incorrectos.
+[2024-07-19 10:05:07] usuario:  | pass:   | formulario: FormLogin 
+[2024-07-19 10:05:07] usuario: salaburuh  | Resultado: 1
+[2024-07-19 10:05:07] usuario: salaburuh | pass: 12345678  | pass:
+[2024-07-19 10:10:55] usuario:  | pass:   | formulario: FormLogin 
+[2024-07-19 10:10:56] usuario: salaburuh  | Resultado: 1
+[2024-07-19 10:10:56] usuario: salaburuh | pass: 12345678  | pass:
+[2024-07-19 10:12:41] usuario:  | pass:   | formulario: FormLogin 
+[2024-07-19 10:12:41] usuario: salaburuh  | Resultado: 1
+[2024-07-19 10:12:41] usuario: salaburuh | pass: 12345678  | pass:
+[2024-07-19 10:15:47] formulario: FormLogin 
+[2024-07-19 10:15:47] usuario: salaburuh  | Resultado: 1
+[2024-07-19 10:16:53] formulario: FormLogin 
+[2024-07-19 10:16:53] FormLogin- Control Ingreso - Usuario o contraseña incorrectos.
+[2024-07-19 10:18:37] formulario: FormLogin 
+[2024-07-19 10:18:37] usuario: salaburuh  | Resultado: 1
+[2024-07-19 14:54:43] formulario: FormLogin 
+[2024-07-19 14:54:43] usuario: salaburuf  | Resultado: 1
+[2024-07-19 20:50:19] formulario: FormLogin 
+[2024-07-19 20:50:19] usuario: salaburuf  | Resultado: 1
+[2024-07-20 16:06:01] formulario:  
+[2024-07-20 16:41:07] formulario: FormLogin 
+[2024-07-20 16:41:07] usuario: salaburuf  | Resultado: 1
+[2024-07-20 16:41:59] formulario: FormLogin 
+[2024-07-20 16:42:00] usuario: salaburuf  | Resultado: 1
+[2024-07-20 17:06:06] formulario: FormLogin 
+[2024-07-20 17:06:06] usuario: salaburuf  | Resultado: 1
+[2024-07-21 09:03:15] formulario: FormLogin 
+[2024-07-21 09:03:16] usuario: salaburuf  | Resultado: 1
+[2024-07-21 09:04:22] formulario: FormLogin 
+[2024-07-21 09:04:22] FormLogin- Control Ingreso - Usuario o contraseña incorrectos.
+[2024-07-21 09:05:06] formulario: FormLogin 
+[2024-07-21 09:05:06] FormLogin- Control Ingreso - Usuario o contraseña incorrectos.
+[2024-07-21 09:10:03] formulario: FormLogin 
+[2024-07-21 09:10:03] usuario: salaburuf  | Resultado: 1
+[2024-07-21 09:16:43] formulario: FormLogin 
+[2024-07-21 09:16:43] usuario: salaburuf  | Resultado: 1
+[2024-07-21 10:25:45] formulario: FormLogin 
+[2024-07-21 10:25:46] usuario: salaburuf  | Resultado: 1
+[2024-07-21 13:26:28] formulario: FormLogin 
+[2024-07-21 13:26:29] usuario: salaana  | Resultado: 1
+[2024-07-21 13:46:51] formulario: FormLogin 
+[2024-07-21 13:46:51] usuario: salaburuf  | Resultado: 1
+[2024-07-23 08:42:49] formulario: FormLogin 
+[2024-07-23 08:42:49] usuario: salaburuf  | Resultado: 1
+[2024-07-23 15:20:27] formulario: FormLogin 
+[2024-07-23 15:20:27] usuario: salaburuf  | Resultado: 1
+[2024-07-23 18:10:33] formulario: FormLogin 
+[2024-07-23 18:10:34] usuario: salaburuf  | Resultado: 1
+[2024-07-23 18:33:45] formulario: FormLogin 
+[2024-07-23 18:33:55] formulario: FormLogin 
+[2024-07-23 18:36:46] formulario: FormLogin 
+[2024-07-23 18:39:18] formulario: FormLogin 
+[2024-07-23 18:39:18] usuario: salaburuf  | Resultado: 1
+[2024-07-24 08:16:49] formulario: FormLogin 
+[2024-07-24 08:16:50] usuario: salaburuf  | Resultado: 1
+[2024-07-24 08:23:52] formulario: FormLogin 
+[2024-07-24 08:23:52] usuario: salaburuf  | Resultado: 1
+[2024-07-24 09:08:43] formulario: FormLogin 
+[2024-07-24 09:08:43] usuario: salaburuf  | Resultado: 1
+[2024-07-24 09:32:37] formulario: FormLogin 
+[2024-07-24 09:32:38] usuario: salaburuf  | Resultado: 1
+[2024-07-25 14:59:35] formulario: FormLogin 
+[2024-07-25 14:59:35] usuario: salaburuf  | Resultado: 1
+[2024-07-25 15:23:28] formulario: FormLogin 
+[2024-07-25 15:23:28] usuario: salabana  | Resultado: 1
+[2024-07-25 18:01:36] formulario: ModMiInfoForm 
+[2024-07-25 18:17:28] formulario: FormLogin 
+[2024-07-25 18:17:28] usuario: salaburuh  | Resultado: 1
+[2024-07-25 18:19:27] formulario: FormLogin 
+[2024-07-25 18:19:28] usuario: SALABANA  | Resultado: 1
+[2024-07-25 18:20:12] formulario: ModMiInfoForm 
+[2024-07-25 18:25:29] formulario: ModMiInfoForm 
+[2024-07-25 19:02:34] formulario: ModPassForm 
+[2024-07-26 15:09:10] formulario: FormLogin 
+[2024-07-26 15:09:10] usuario: salaburuf  | Resultado: 1
+[2024-07-26 16:14:40] formulario: FormLogin 
+[2024-07-26 16:14:40] FormLogin- Control Ingreso - Usuario o contraseña incorrectos.
+[2024-07-26 16:16:18] formulario: FormLogin 
+[2024-07-26 16:16:18] FormLogin- Control Ingreso - Usuario no encontrado.
+[2024-07-26 16:16:27] formulario: FormLogin 
+[2024-07-26 16:16:27] usuario: admin  | Resultado: 1
+[2024-07-27 12:24:21] SQL: SELECT ID, NOMBRE, DIRECCION, TELEFONO, EMAIL, PASSWORD FROM prodes.usuarios | Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-07-27 12:26:19] SQL: SELECT ID, NOMBRE, DIRECCION, TELEFONO, EMAIL, PASSWORD FROM prodes.usuarios | Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-07-27 12:49:59] SQL: SELECT ID, NOMBRE, DIRECCION, TELEFONO, EMAIL, PASSWORD FROM prodes.usuarios | Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-07-27 12:50:18] SQL: SELECT ID, NOMBRE, DIRECCION, TELEFONO, EMAIL, PASSWORD FROM prodes.usuarios | Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-07-27 12:51:20] SQL: SELECT ID, NOMBRE, DIRECCION, TELEFONO, EMAIL FROM prodes.usuarios | Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-07-27 13:15:10] SQL: SELECT ID, NOMBRE, DIRECCION, TELEFONO, EMAIL FROM prodes.usuarios | Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-07-27 21:36:06] formulario: FormLogin 
+[2024-07-27 21:36:06] usuario: admin  | Resultado: 1
+[2024-07-27 21:36:33] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:01] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:11] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%m%' OR NOMBRE LIKE '%m%' OR DIRECCION LIKE '%m%' OR TELEFONO LIKE '%m%' OR EMAIL LIKE '%m%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:12] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%ma%' OR NOMBRE LIKE '%ma%' OR DIRECCION LIKE '%ma%' OR TELEFONO LIKE '%ma%' OR EMAIL LIKE '%ma%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:13] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%mar%' OR NOMBRE LIKE '%mar%' OR DIRECCION LIKE '%mar%' OR TELEFONO LIKE '%mar%' OR EMAIL LIKE '%mar%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:15] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%ma%' OR NOMBRE LIKE '%ma%' OR DIRECCION LIKE '%ma%' OR TELEFONO LIKE '%ma%' OR EMAIL LIKE '%ma%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:19] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%m%' OR NOMBRE LIKE '%m%' OR DIRECCION LIKE '%m%' OR TELEFONO LIKE '%m%' OR EMAIL LIKE '%m%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:20] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:21] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%s%' OR NOMBRE LIKE '%s%' OR DIRECCION LIKE '%s%' OR TELEFONO LIKE '%s%' OR EMAIL LIKE '%s%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:21] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%sa%' OR NOMBRE LIKE '%sa%' OR DIRECCION LIKE '%sa%' OR TELEFONO LIKE '%sa%' OR EMAIL LIKE '%sa%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:22] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%sal%' OR NOMBRE LIKE '%sal%' OR DIRECCION LIKE '%sal%' OR TELEFONO LIKE '%sal%' OR EMAIL LIKE '%sal%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:23] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%sala%' OR NOMBRE LIKE '%sala%' OR DIRECCION LIKE '%sala%' OR TELEFONO LIKE '%sala%' OR EMAIL LIKE '%sala%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:26] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%salab%' OR NOMBRE LIKE '%salab%' OR DIRECCION LIKE '%salab%' OR TELEFONO LIKE '%salab%' OR EMAIL LIKE '%salab%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:30] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%sala%' OR NOMBRE LIKE '%sala%' OR DIRECCION LIKE '%sala%' OR TELEFONO LIKE '%sala%' OR EMAIL LIKE '%sala%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:30] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%sal%' OR NOMBRE LIKE '%sal%' OR DIRECCION LIKE '%sal%' OR TELEFONO LIKE '%sal%' OR EMAIL LIKE '%sal%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:30] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%sa%' OR NOMBRE LIKE '%sa%' OR DIRECCION LIKE '%sa%' OR TELEFONO LIKE '%sa%' OR EMAIL LIKE '%sa%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:30] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%s%' OR NOMBRE LIKE '%s%' OR DIRECCION LIKE '%s%' OR TELEFONO LIKE '%s%' OR EMAIL LIKE '%s%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:30] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:31] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:34] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%sa%' OR NOMBRE LIKE '%sa%' OR DIRECCION LIKE '%sa%' OR TELEFONO LIKE '%sa%' OR EMAIL LIKE '%sa%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:34] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%sa%' OR NOMBRE LIKE '%sa%' OR DIRECCION LIKE '%sa%' OR TELEFONO LIKE '%sa%' OR EMAIL LIKE '%sa%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:35] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%s%' OR NOMBRE LIKE '%s%' OR DIRECCION LIKE '%s%' OR TELEFONO LIKE '%s%' OR EMAIL LIKE '%s%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:35] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:38] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%a%' OR NOMBRE LIKE '%a%' OR DIRECCION LIKE '%a%' OR TELEFONO LIKE '%a%' OR EMAIL LIKE '%a%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 22:37:38] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%ad%' OR NOMBRE LIKE '%ad%' OR DIRECCION LIKE '%ad%' OR TELEFONO LIKE '%ad%' OR EMAIL LIKE '%ad%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 23:04:46] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 23:26:13] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 23:26:20] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 23:26:22] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-27 23:26:50] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-29 18:26:11] formulario: FormLogin 
+[2024-07-29 18:26:11] usuario: salaburuf  | Resultado: 1
+[2024-07-30 10:56:18] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:03:04] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:03:25] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%f%' OR NOMBRE LIKE '%f%' OR DIRECCION LIKE '%f%' OR TELEFONO LIKE '%f%' OR EMAIL LIKE '%f%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:03:37] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:35:21] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%fe%' OR NOMBRE LIKE '%fe%' OR DIRECCION LIKE '%fe%' OR TELEFONO LIKE '%fe%' OR EMAIL LIKE '%fe%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:35:21] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%fer%' OR NOMBRE LIKE '%fer%' OR DIRECCION LIKE '%fer%' OR TELEFONO LIKE '%fer%' OR EMAIL LIKE '%fer%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:35:21] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%fer%' OR NOMBRE LIKE '%fer%' OR DIRECCION LIKE '%fer%' OR TELEFONO LIKE '%fer%' OR EMAIL LIKE '%fer%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:35:24] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%fe%' OR NOMBRE LIKE '%fe%' OR DIRECCION LIKE '%fe%' OR TELEFONO LIKE '%fe%' OR EMAIL LIKE '%fe%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:35:24] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%f%' OR NOMBRE LIKE '%f%' OR DIRECCION LIKE '%f%' OR TELEFONO LIKE '%f%' OR EMAIL LIKE '%f%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:35:25] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:35:26] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%s%' OR NOMBRE LIKE '%s%' OR DIRECCION LIKE '%s%' OR TELEFONO LIKE '%s%' OR EMAIL LIKE '%s%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 11:35:30] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:06:49] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:10:19] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:17:47] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:23:25] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:23:45] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%s%' OR NOMBRE LIKE '%s%' OR DIRECCION LIKE '%s%' OR TELEFONO LIKE '%s%' OR EMAIL LIKE '%s%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:23:45] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%sa%' OR NOMBRE LIKE '%sa%' OR DIRECCION LIKE '%sa%' OR TELEFONO LIKE '%sa%' OR EMAIL LIKE '%sa%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:27:03] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:27:09] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:27:10] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:27:10] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:27:11] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:27:11] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY NOMBRE desc LIMIT 0 , 10
+[2024-07-30 15:27:13] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY DIRECCION desc LIMIT 0 , 10
+[2024-07-30 15:27:14] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY TELEFONO desc LIMIT 0 , 10
+[2024-07-30 15:27:15] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY EMAIL desc LIMIT 0 , 10
+[2024-07-30 15:27:20] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY EMAIL desc LIMIT 0 , 10
+[2024-07-30 15:27:21] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:27:27] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 15:27:28] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY NOMBRE desc LIMIT 0 , 10
+[2024-07-30 15:27:30] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY DIRECCION desc LIMIT 0 , 10
+[2024-07-30 15:27:31] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY TELEFONO desc LIMIT 0 , 10
+[2024-07-30 15:27:32] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY EMAIL desc LIMIT 0 , 10
+[2024-07-30 16:15:57] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 16:26:08] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 16:45:01] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 16:46:55] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 16:47:56] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 16:48:06] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:00:29] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:00:38] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%kj%' OR NOMBRE LIKE '%kj%' OR DIRECCION LIKE '%kj%' OR TELEFONO LIKE '%kj%' OR EMAIL LIKE '%kj%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:00:38] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%kj%' OR NOMBRE LIKE '%kj%' OR DIRECCION LIKE '%kj%' OR TELEFONO LIKE '%kj%' OR EMAIL LIKE '%kj%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:00:42] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%k%' OR NOMBRE LIKE '%k%' OR DIRECCION LIKE '%k%' OR TELEFONO LIKE '%k%' OR EMAIL LIKE '%k%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:00:43] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:21:44] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:21:54] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%f%' OR NOMBRE LIKE '%f%' OR DIRECCION LIKE '%f%' OR TELEFONO LIKE '%f%' OR EMAIL LIKE '%f%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:21:54] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%fe%' OR NOMBRE LIKE '%fe%' OR DIRECCION LIKE '%fe%' OR TELEFONO LIKE '%fe%' OR EMAIL LIKE '%fe%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:22:00] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios WHERE (ID LIKE '%f%' OR NOMBRE LIKE '%f%' OR DIRECCION LIKE '%f%' OR TELEFONO LIKE '%f%' OR EMAIL LIKE '%f%' ) ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:22:01] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:22:01] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:26:35] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:27:22] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:27:56] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:28:09] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:28:12] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:30:50] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:31:04] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:40:11] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:46:32] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 17:52:11] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 18:16:12] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 18:19:38] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 18:19:53] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 18:34:57] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 18:44:43] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 18:46:32] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 18:48:37] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 18:50:43] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 18:53:58] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 18:55:16] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 19:59:18] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 20:01:57] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10
+[2024-07-30 20:04:14] llega aca: SELECT SQL_CALC_FOUND_ROWS ID, NOMBRE, DIRECCION, TELEFONO, EMAIL
+FROM prodes.usuarios  ORDER BY ID desc LIMIT 0 , 10

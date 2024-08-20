@@ -1,0 +1,6 @@
+[2024-08-16 18:36:00] SQL ejecutado con éxito: SELECT MAX(SUBSTRING(ITEM, 4, 6) * 1) as max_codigo 
+FROM prodes.catalogo 
+WHERE ITEM LIKE 'FIC%' | Parámetros: Array
+(
+)
+

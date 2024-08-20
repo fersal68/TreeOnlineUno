@@ -1,0 +1,186 @@
+/* Estilo del cuerpo para hacer que el footer se mantenga al final */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    padding-top: 56px; /* Ajusta el relleno superior para que no se superponga con la barra de navegación */
+}
+/*
+body {
+    display: flex;
+    flex-direction: column;
+    
+}   */
+
+.main-content {
+    flex: 1;
+}
+.content-container {
+    overflow-x: auto;
+    overflow-y: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* Estilo del menú */
+.navbar-nav .nav-link {
+    color: #fff; /* Letras blancas */
+    font-weight: bold; /* Negrita */
+    margin-right: 10px; /* Separación entre botones */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .dropdown-menu a:hover {
+    color: #000; /* Letras negras */
+    background-color: #d4af37; /* Dorado */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar-nav .dropdown-menu a {
+    color: #fff; /* Letras blancas */
+    font-weight: bold; /* Negrita */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+.navbar-nav .dropdown-menu {
+    background-color: #000; /* Fondo negro */
+}
+
+.dropdown-toggle::after {
+    color: #d4af37; /* Color dorado */
+}
+
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath stroke="rgba%28212,175,55, 1%29" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"/%3E%3C/svg%3E');
+}
+
+.navbar-brand {
+    margin-right: 20px; /* Separación entre "Página de inicio" y botones */
+}
+
+.navbar-brand img {
+    height: 30px; /* Altura ajustada */
+    width: auto; /* Mantener la proporción */
+}
+
+/* Estilo del Footer */
+.footer {
+    background-color: #343a40; /* Mismo color que la cabecera */
+    color: #fff; /* Blanco */
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    width: 100%;
+    border-top: 2px solid #d4af37; /* Borde superior dorado */
+}
+
+.footer a {
+    color: #d4af37; /* Dorado */
+    font-weight: bold; /* Negrita */
+    margin: 0 10px; /* Separación entre enlaces */
+    border-radius: 5px; /* Bordes redondeados */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.footer a:hover {
+    color: #000; /* Letras negras */
+    background-color: #d4af37; /* Fondo dorado */
+}
+
+/* Estilo del Modal */
+.modal-body {
+    text-align: center;
+}
+
+.modal-body img {
+    width: 100px;
+    height: 100px;
+    opacity: 0.7;
+    margin-bottom: 20px;
+}
+
+.modal-body .form-group {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.modal-body .form-group input {
+    padding-left: 45px;
+    border-radius: 5px; /* Bordes ligeramente redondeados */
+    border: 1px solid #ced4da;
+    height: 30px; /* Ajusta la altura del input */
+}
+
+.modal-body .form-group .icon-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 45px;
+    background: #f0f0f0;
+    border-top-left-radius: 5px; /* Bordes ligeramente redondeados */
+    border-bottom-left-radius: 5px; /* Bordes ligeramente redondeados */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-body .form-group .username-icon,
+.modal-body .form-group .password-icon {
+    font-size: 20px;
+    color: #6c757d;
+}
+
+.modal-body .form-group .password-toggle {
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #6c757d;
+    font-size: 20px;
+}
+
+::placeholder {
+    color: #6c757d;
+    opacity: 1;
+}
+
+.btn-block {
+    height: 30px; /* Ajusta la altura del botón */
+    font-size: 14px; /* Ajusta el tamaño de la fuente del botón */
+    background-color: #d4af37; /* Fondo dorado */
+    color: #000; /* Texto negro */
+    border-radius: 5px; /* Bordes redondeados */
+    border: none; /* Sin borde */
+}
+
+.btn-block:hover {
+    background-color: #fff; /* Fondo blanco */
+    color: #d4af37; /* Texto dorado */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.modal-content {
+    border-radius: 10px; /* Bordes redondeados */
+    border: 2px solid #d4af37; /* Borde dorado */
+}
+
+.modal-header {
+    border-bottom: 1px solid #d4af37; /* Borde dorado */
+}
+
+.modal-footer {
+    border-top: 1px solid #d4af37; /* Borde dorado */
+}
+
+.separator {
+    height: 1px;
+    width: 100%;
+    background: white;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}

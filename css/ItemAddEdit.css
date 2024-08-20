@@ -1,0 +1,64 @@
+.p-h2 {
+    color: #d4af37; /* Color dorado para el texto */
+    text-shadow: 1px 1px 2px #000; /* Sombra para el texto */
+    padding-bottom: 10px; /* Espaciado inferior para el texto */
+    margin-bottom: 20px; /* Margen inferior para el texto */
+    border-bottom: 2px solid #000; /* Línea inferior negra para el texto */
+    font-size: 2rem; /* Tamaño de fuente similar al h2 */
+    font-weight: bold; /* Negrita */
+}
+.form-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #000;
+    padding: 20px;
+    border-radius: 5px;
+}
+.form-left {
+    flex: 1;
+    min-width: 300px;
+}
+.form-right {
+    flex: 1;
+    min-width: 300px;
+}
+.form-right img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.btn-primary {
+    background-color: #000;
+    border-color: #d4af37;
+}
+.btn-primary:hover {
+    background-color: #d4af37;
+    border-color: #000;
+}
+.btn-secondary {
+    background-color: #000;
+    border-color: #d4af37;
+}
+.btn-secondary:hover {
+    background-color: #d4af37;
+    border-color: #000;
+}
+/* tamaño de la imagen */
+.form-right img {
+   width: 100%; /* Esto hace que la imagen ocupe el 100% del ancho del contenedor */
+   max-width: 300px; /* Ajusta este valor al tamaño máximo deseado */
+   height: auto; /* Mantiene la proporción de la imagen */
+   border: 1px solid #ddd; /* Añade un borde a la imagen */
+   border-radius: 4px; /* Redondea las esquinas de la imagen */
+   padding: 5px; /* Añade un padding alrededor de la imagen */
+   object-fit: cover; /* Asegura que la imagen cubra todo el contenedor */
+   display: block; /* Asegura que la imagen sea un bloque */
+   margin: 0 auto; /* Centra la imagen horizontalmente */
+}
